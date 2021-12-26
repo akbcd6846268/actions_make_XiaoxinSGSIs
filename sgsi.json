@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "https://bigota.d.miui.com/21.11.24/miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip",
+  "rom_name": "miui_CEPHEUS_21.11.24_d1e07cc091_11.0.zip",
+  "pack_sgsi": "miui_AB_LGG8_21.11.24_Q-eu_XiaoxinSGSIs_Pinkdoge.7z",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
